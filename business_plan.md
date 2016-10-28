@@ -9,4 +9,12 @@
 
 ## Operational plan
 
+- Fund: 
+ - Financial/Societal scorecard
+- Public:
+ - Bugdet
+ - Structure
+- Incubation:
+ - technical: third-party
+
 ## Financial plan
