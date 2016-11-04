@@ -1,0 +1,6 @@
+{
+  "name": "The ants project",
+  "tagline": "A nice tagline here",
+  "body": "# Repository for the ants project\r\n\r\nContains description, business plan, business canvas, documentation, ...\r\n\r\n## Structure of the repo\r\n\r\n- Current: two files containing the high level stuctures with few details.\r\n\r\n- Future: refactor to two diferent folders (?)\r\n\r\n## Contribute\r\n\r\n### Github workflow\r\n\r\nThe best resource for that is the [github documentation](https://help.github.com) itsef\r\n\r\nGrosso modo the process looks like this:\r\n\r\n- forking the repo\r\n- create local copy on your computer\r\n- write some text\r\n- commit your local change to your remote fork\r\n- make a pull request to this project (depends on your status)\r\n\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
